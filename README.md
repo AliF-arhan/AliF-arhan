@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliF-arhan
-- 👀 I’m interested in solving problems of daily routine through coding 
+- 👀 I’m interested in automating tasks of daily routine through coding 
 - 🌱 I’m currently learning Python and how to use Python for Machine learning and Artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
