@@ -4,7 +4,7 @@
 - 📫 How to reach me: Linkedln : www.linkedin.com/in/
 ali-farhan-1a5172328
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Python was not named after a snake (Know its cheesy 😁)
+- ⚡ Fun fact: Python was not named after a snake (I Know its cheesy 😁)
 
 <!---
 - 💞️ I’m looking to collaborate on ..
