@@ -7,7 +7,7 @@
 ## 🧠 About Me  
 
 🎓 **Bachelor’s in Artificial Intelligence** @ FAST NUCES  
-📊 **Quantitaive Trader** —  
+📊 **Quantitaive Trader** 
 💡 Passionate about **AI, Quantitative Trading, and Automation**  
 🎯 Vision: *Revolutionize financial markets with computational power*  
 
