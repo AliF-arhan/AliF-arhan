@@ -33,11 +33,12 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Notable Projects  
 
 - 🎮 **Zombie Outbreak Survival Game** – Retro Python shooter inspired by SEGA classics  
 - 📊 **Spreadsheet Automation Project** – Custom formula addition, data manipulation, cell arrangement
-- 🤖 **Robo Speaker** – Text - To - Speech Converter 
+- 🤖 **Robo Speaker** – Text - To - Speech Converter
+- 📊 **Position Sizing Calculator** - Risk Calculator for Financial Trading
 
 ---
 
