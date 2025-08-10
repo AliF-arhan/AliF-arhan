@@ -1,8 +1,6 @@
 # 👋 Hey there, I’m Ali Farhan  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ali%20Farhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-farhan)](https://www.linkedin.com/in/ali-farhan)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
 
 ---
 
