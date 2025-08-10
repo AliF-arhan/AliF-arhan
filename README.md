@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ali Farhan  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ali%20Farhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-farhan)](https://www.linkedin.com/in/ali-farhan)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Ali%20Farhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-farhan)](https://www.linkedin.com/in/ali-farhan-1a5172328/)  
 
 ---
 
